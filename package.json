@@ -1,6 +1,7 @@
 {
-  "name": "client",
+  "name": "SocialMuzik-Client",
   "version": "0.1.0",
+  "owner":"Darsh Mishra <darshmishra3010@gmail.com>",
   "private": true,
   "dependencies": {
     "@material-ui/core": "3.0.1",
